@@ -2,7 +2,7 @@
 using Foundation;
 using UIKit;
 
-namespace try2.iOS
+namespace try1.iOS
 {
 	[Register("AppDelegate")]
 	public partial class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate

@@ -1,6 +1,6 @@
 ﻿using UIKit;
 
-namespace try2.iOS
+namespace try1.iOS
 {
 	public class Application
 	{

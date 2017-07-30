@@ -11,10 +11,10 @@ namespace try1
         [JsonProperty(PropertyName = "Id")]
         public string ID { get; set; }
 
-        [JsonProperty(PropertyName = "Longitude")]
+        [JsonProperty(PropertyName = "CoffeeName")]
         public float Longitude { get; set; }
 
-        [JsonProperty(PropertyName = "Latitude")]
+        [JsonProperty(PropertyName = "Time")]
         public float Latitude { get; set; }
     
 }

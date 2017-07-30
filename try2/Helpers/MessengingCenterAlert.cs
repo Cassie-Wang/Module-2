@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace try2.Helpers
+namespace try1.Helpers
 {
 	public class MessagingCenterAlert
 	{

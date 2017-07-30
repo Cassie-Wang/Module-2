@@ -1,6 +1,6 @@
-﻿using try2.Models;
+﻿using try1.Models;
 
-namespace try2.ViewModels
+namespace try1.ViewModels
 {
 	public class ItemDetailViewModel : BaseViewModel
 	{

@@ -1,11 +1,11 @@
 ﻿using System;
 
-using try2.Models;
-using try2.ViewModels;
+using try1.Models;
+using try1.ViewModels;
 
 using Xamarin.Forms;
 
-namespace try2.Views
+namespace try1.Views
 {
 	public partial class ItemsPage : ContentPage
 	{

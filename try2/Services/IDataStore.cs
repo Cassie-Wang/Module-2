@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace try2.Services
+namespace try1.Services
 {
 	public interface IDataStore<T>
 	{

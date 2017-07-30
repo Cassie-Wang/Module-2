@@ -2,13 +2,13 @@
 using System.Diagnostics;
 using System.Threading.Tasks;
 
-using try2.Helpers;
-using try2.Models;
-using try2.Views;
+using try1.Helpers;
+using try1.Models;
+using try1.Views;
 
 using Xamarin.Forms;
 
-namespace try2.ViewModels
+namespace try1.ViewModels
 {
 	public class ItemsViewModel : BaseViewModel
 	{

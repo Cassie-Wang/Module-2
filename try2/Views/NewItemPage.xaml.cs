@@ -1,10 +1,10 @@
 ﻿using System;
 
-using try2.Models;
+using try1.Models;
 
 using Xamarin.Forms;
 
-namespace try2.Views
+namespace try1.Views
 {
 	public partial class NewItemPage : ContentPage
 	{

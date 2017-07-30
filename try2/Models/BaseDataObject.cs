@@ -1,7 +1,7 @@
 ﻿using System;
-using try2.Helpers;
+using try1.Helpers;
 
-namespace try2.Models
+namespace try1.Models
 {
     public class BaseDataObject : ObservableObject
     {

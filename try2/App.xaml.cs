@@ -1,10 +1,10 @@
-﻿using try2.Views;
+﻿using try1.Views;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
-namespace try2
+namespace try1
 {
 	public partial class App : Application
 	{

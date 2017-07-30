@@ -1,10 +1,10 @@
-﻿using try2.Helpers;
-using try2.Models;
-using try2.Services;
+﻿using try1.Helpers;
+using try1.Models;
+using try1.Services;
 
 using Xamarin.Forms;
 
-namespace try2.ViewModels
+namespace try1.ViewModels
 {
 	public class BaseViewModel : ObservableObject
 	{

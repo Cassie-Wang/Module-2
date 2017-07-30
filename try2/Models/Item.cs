@@ -1,4 +1,4 @@
-﻿namespace try2.Models
+﻿namespace try1.Models
 {
     public class Item : BaseDataObject
 	{

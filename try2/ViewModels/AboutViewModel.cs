@@ -2,7 +2,7 @@
 using System.Windows.Input;
 using Xamarin.Forms;
 
-namespace try2.ViewModels
+namespace try1.ViewModels
 {
 	public class AboutViewModel : BaseViewModel
 	{

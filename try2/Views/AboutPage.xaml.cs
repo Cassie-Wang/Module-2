@@ -1,7 +1,7 @@
 ﻿
 using Xamarin.Forms;
 
-namespace try2.Views
+namespace try1.Views
 {
 	public partial class AboutPage : ContentPage
 	{

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace try2.Helpers
+namespace try1.Helpers
 {
 	/// <summary>
 	/// Observable object with INotifyPropertyChanged implemented
